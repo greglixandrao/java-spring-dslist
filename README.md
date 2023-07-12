@@ -5,7 +5,7 @@
 <ul>
     <li>Criando o projeto Spring Boot com Maven</li>
     <li>Configurações iniciais</li>
-    <li>Criação do ORM da Classe Game</li>
+    <li>Criação do ORM da Classe Game</li></ul></ br>
     <ul> **Padrão API Rest**
         <li>DTO</li>
         <li>Repository</li>
