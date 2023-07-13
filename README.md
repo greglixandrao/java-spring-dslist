@@ -12,4 +12,7 @@
         <li>Service</li>
         <li>Controller</li>
     </ul>
+    <li>Utilização de Projection para lista de games por categoria</li>
+    <li>Criação de SQL padrão dentro do Repository</li>
+    <li>Adição nos Services e Controllers</li>
 </ul>
